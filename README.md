@@ -1,2 +1,2 @@
 # periodic_table_game
-java game
+for fun project to develop skills in java gui
